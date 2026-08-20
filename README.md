@@ -1,37 +1,69 @@
-Hello, I’m Mohamed — a frontend developer with 7+ years of experience building modern web interfaces and SaaS dashboards. My approach is to make the best interaction and experience users can get with company products and services, designing the User Experience and User Interface, improving conversion level, and keeping user attention at a high level to make more profits.
+Hi, I'm Mohamed, a Full-Stack Web Developer with a passion for creating modern, professional, user-friendly, and high-performing web applications, landing pages, and web services.
 
-I specialize in developing clean, responsive, and user-focused web applications using React. My work focuses on turning product ideas and designs from Figma into fast, maintainable, and scalable interfaces. I focus on writing clean code, communicating clearly, and delivering reliable work that helps clients move their products forward.
+I specialize in developing production-ready products using React, Node.js. From intuitive UI/UX and robust backend architecture to cloud deployment and performance optimization, I deliver secure, scalable solutions that help businesses launch faster and grow with confidence.
 
-With a strong background in UX/UI, I don’t just build interfaces — I focus on creating intuitive experiences that keep users engaged and help products convert better.
+Whether you need a high-converting landing page, a WordPress website, API integrations, payment processing, conversion tracking, or a full-stack web application, I can help deliver a reliable, maintainable solution focused on performance and long-term success.
 
-What I can help you with
+For the past 4 years, I've been working with a performance marketing environment where I designed, developed, deployed, and optimized landing pages that supported lead generation and customer acquisition campaigns, as well as developing web applications and Node.js based scripts that supported the work.
 
-- SaaS dashboards and admin panels
-- Converting Figma designs into responsive web applications
-- Frontend development using React
-- API integration and data-driven interfaces
-- Responsive UI development for web applications
-- Landing pages and product interfaces
-- UX-focused improvements for existing products
-- Wireframing
-- Prototyping
-- Domain and Hosting services
+I can help with:
 
-Technologies I work with
+Full-Stack Web Development
+Frontend Development Using (React.js / Next.js / Vue.js)
+Figma / PSD Design Into Pixel-Perfect HTML/CSS/JS
+Web / Mobile Design & UI/UX
+Landing Page Development
+WordPress Development
+REST APIs, Payment Gateway, and Third-Party API Integrations (Stripe, Voluum, uptimeRobot)
+Optimizing Page Speed and Frontend Performance
+Increasing Leads, Sales, and Engagement by Improving UX
+Call-to-Action (CTA) Implementation & Testing
+Conversion Rate Optimization (CRO)
+Popups, Overlays, Funnels, and Conversion-Focused User Flows
+Setup Tracking Pixels, Google Analytics, and Marketing Integrations
+Affiliate Marketing Systems and Postback Integration
+JavaScript, Browser APIs, and Custom Frontend Functionality
 
-Frontend
-- React
-- JavaScript (ES6+)
-- HTML / CSS
-- Bootstrap
+Skills, Tools & Tech Stack:
 
-Backend / Integration
-- Node.js
-- REST APIs
-- Database-driven applications
+Frontend Development
+• HTML5, CSS3, JavaScript (ES6+)
+• React.js, Next.js, Vue.js
+• CSS Animations & Interactions
+• DOM Manipulation
+• Responsive Web Design
+• Bootstrap, Tailwind CSS
 
-Tools
-- Figma
-- Git
+Backend Development
+• Node.js / Express.js
+• PHP / Laravel
+• REST APIs
+• API / Webhook Integration
+• Form Processing & Lead Management
 
-If you’re building a SaaS product, dashboard, or web application and need a developer who understands both UI and product experience, feel free to reach out.
+Databases
+• MongoDB
+• PostgreSQL
+• Prisma
+• SQL
+
+Cloud Platforms & Infrastructure
+• Amazon Web Services (AWS): Lambda, EC2, S3, CloudWatch
+• Google Cloud Platform (GCP)
+• Coolify
+• Application Deployment and Monitoring
+• Linux Server Administration and Troubleshooting
+
+Marketing & Conversion Optimization
+• Landing Page Development
+• Conversion Rate Optimization (CRO)
+• Sales Funnels & Affiliate Marketing
+• Event Handlers & User Interaction Tracking
+• Web Analytics (GA4, HotJar)
+• Google Tag Manager
+• A/B Testing
+
+Version Control & Collaboration
+• Git / GitHub / GitLab
+
+Looking forward to working together.
